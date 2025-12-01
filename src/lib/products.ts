@@ -3,27 +3,27 @@ import { Product } from "@/types";
 export const products: Product[] = [
     {
         id: "1",
-        name: "Fresh Goat Milk (1L)",
+        name: "Paket 2 Box",
         description: "Pure, raw goat milk straight from our farm. Rich in nutrients and easier to digest than cow's milk.",
         price: 45000,
-        image: "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=800&q=80",
+        image: "src/lib/Asset/paket2.jpg",
         category: "Milk",
     },
     {
         id: "2",
-        name: "Organic Cow Milk (1L)",
+        name: "Paket 4 Box",
         description: "Creamy and delicious whole milk from grass-fed cows. Pasteurized gently to preserve flavor.",
         price: 25000,
-        image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=800&q=80",
+        image: "src/lib/Asset/paket4.jpg",
         category: "Milk",
     },
     {
         id: "3",
-        name: "Artisanal Goat Cheese",
+        name: "Paket 6 Box",
         description: "Handcrafted goat cheese with a tangy flavor and crumbly texture. Perfect for salads and crackers.",
         price: 65000,
-        image: "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=800&q=80",
-        category: "Cheese",
+        image: "src/lib/Asset/paket6.jpg",
+        category: "Milk",
     },
     {
         id: "4",
@@ -39,7 +39,7 @@ export const products: Product[] = [
         description: "Rich, golden butter churned from our premium cream. Adds amazing flavor to any dish.",
         price: 35000,
         image: "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=800&q=80",
-        category: "Dairy",
+        category: "Cheese",
     },
     {
         id: "6",
