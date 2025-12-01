@@ -9,7 +9,7 @@ export function Footer() {
             <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                 <div className="grid grid-cols-1 gap-8 lg:grid-cols-4">
                     <div>
-                        <span className="text-xl font-bold tracking-tight">Goat Milk</span>
+                        <span className="text-xl font-bold tracking-tight">Milki Goat</span>
                         <p className="mt-4 text-sm leading-6 text-muted-foreground">
                             Premium organic dairy products delivered fresh from our farm to your table. Nurturing nature since 2010.
                         </p>
