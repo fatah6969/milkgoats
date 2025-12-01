@@ -49,7 +49,7 @@ export function Navbar() {
             <div className="container mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center gap-6">
                     <Link href="/" className="flex items-center space-x-2">
-                        <span className="text-xl font-bold tracking-tight">Goat Milk</span>
+                        <span className="text-xl font-bold tracking-tight">Milki Goat</span>
                     </Link>
                     <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
                         <Link href="/products" className="transition-colors hover:text-foreground/80 text-foreground/60">
