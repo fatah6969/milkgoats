@@ -15,7 +15,7 @@ export default function AboutPage() {
                     <div className="mx-auto max-w-2xl lg:mx-0">
                         <h2 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">Our Story</h2>
                         <p className="mt-6 text-lg leading-8 text-gray-300">
-                            From humble beginnings to your breakfast table, discover the passion behind Goat Milk.
+                            From humble beginnings to your breakfast table, discover the passion behind Milk Goat.
                         </p>
                     </div>
                 </div>
