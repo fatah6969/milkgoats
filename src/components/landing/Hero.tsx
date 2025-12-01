@@ -31,7 +31,7 @@ export function Hero() {
         <div className="mt-16 flow-root sm:mt-24">
           <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
             <img
-              src="https://images.unsplash.com/photo-1550583724-b2692b85b150?w=1600&q=80"
+              src="https://media.istockphoto.com/id/2168066015/vector/dairy-poster-milk-products-goat-and-splash-of-milk-as-a-3d-vector-design-element-mesh.jpg?s=612x612&w=0&k=20&c=sKHgwEvJ0XofuQxvioJASuQg6Ikv3wu90-uCR9HH6lg="
               alt="Fresh milk pouring into glass"
               width={2432}
               height={1442}
