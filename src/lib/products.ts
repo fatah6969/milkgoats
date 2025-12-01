@@ -46,7 +46,7 @@ export const products: Product[] = [
         name: "Heavy Cream (250ml)",
         description: "Luxurious heavy cream, perfect for baking, cooking, or whipping into a topping.",
         price: 30000,
-        image: "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&q=80",
+        image: ""https://images.unsplash.com/photo-1563636619-e9143da7973b?w=800&q=80",
         category: "Dairy",
     },
 ];
