@@ -6,7 +6,7 @@ export const products: Product[] = [
         name: "Paket 2 Box",
         description: "Pure, raw goat milk straight from our farm. Rich in nutrients and easier to digest than cow's milk.",
         price: 200000,
-        image: "src/lib/Asset/paket2.jpg",
+        image: "/images/paket2.jpg",
         category: "Milk",
     },
     {
@@ -14,7 +14,7 @@ export const products: Product[] = [
         name: "Paket 4 Box",
         description: "Creamy and delicious whole milk from grass-fed cows. Pasteurized gently to preserve flavor.",
         price: 370000,
-        image: "src/lib/Asset/paket4.jpg",
+        image: "/images/paket4.jpg",
         category: "Milk",
     },
     {
@@ -22,7 +22,7 @@ export const products: Product[] = [
         name: "Paket 6 Box",
         description: "Handcrafted goat cheese with a tangy flavor and crumbly texture. Perfect for salads and crackers.",
         price: 550000,
-        image: "src/lib/Asset/paket6.jpg",
+        image: "/images/paket6.jpg",
         category: "Milk",
     },
     {
